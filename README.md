@@ -1,4 +1,4 @@
-🌦 Weather REST API – Spring Boot
+Weather REST API – Spring Boot
 Base URL
 http://localhost:8080/weather
 API Endpoints
